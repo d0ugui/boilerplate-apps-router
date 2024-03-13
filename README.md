@@ -1,4 +1,4 @@
-# Boilerplate Apps Routers (Next v14)
+# Boilerplate Apps Routers
 
 This is a boilerplate created based in Next.js v14 using the new features and patterns like Apps Router.
 
@@ -8,7 +8,7 @@ This is a boilerplate created based in Next.js v14 using the new features and pa
 
 ## Using as template
 
-1. **Create project**: `npx create-next-app --example https://github.com/d0ugui/boilerplate-apps-router.git`
+- `npx create-next-app --example https://github.com/d0ugui/boilerplate-apps-router.git`
 
 ## Commands
 
