@@ -1,6 +1,10 @@
-# Boilerplate Apps Routers
+# Boilerplate Next.js
 
-This is a boilerplate created based in Next.js v14 using the new features and patterns like Apps Router.
+Esse é um template baseado em Next.js utilizando o modelo app-router. O projeto contém algumas ferramentas configuradas que ajudam a organizar e elevar a qualidade do código, abaixo uma descrição:
+
+- **Lint-staged**: executar linters nos arquivos em staged e impedir que erros sejam comitados
+- **Husky**: utilizado para garantir a qualidade dos commits baseado nos requisitos definidos (erros de lint)
+- **Jest**: framework para escrita de testes unitários
 
 ## Tech Stack
 
@@ -8,7 +12,7 @@ This is a boilerplate created based in Next.js v14 using the new features and pa
 
 ## Using as template
 
-- `npx create-next-app --example https://github.com/d0ugui/boilerplate-apps-router`
+- `npx create-next-app --example https://github.com/d0ugui/boilerplate-nextjs`
 
 ## Commands
 
